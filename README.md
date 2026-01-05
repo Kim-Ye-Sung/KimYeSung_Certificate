@@ -19,4 +19,5 @@
 주로 맡았던 업무로는 리눅스 운영체제에서 ROS2를 이용하여 실제로 운항하였던 선박 데이터의 bag파일에 있는 정보를 추출하고
 선박 정보를 검색할 수 있는 사이트에서 검색하고 나온 정보들을 저장하는것을 자동화 하는 코딩을 하는 업무를 맡았습니다.<br>
 또한 bag파일의 누락된 선박 위치 정보를 계산하여 bag파일에 삽입하고 저장하는 것을 자동화 하는 코딩도 맡았습니다.<br>
-<img src="https://github.com/user-attachments/files/24438005/_._.pdf" width="400"/><br><br>
+<img src="https://github.com/user-attachments/assets/00b53ab2-64e1-4d87-adef-4e10370cd182" width="400"/><br><br>
+
