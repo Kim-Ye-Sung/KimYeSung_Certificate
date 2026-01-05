@@ -5,8 +5,13 @@
 ## 언리얼엔진 게임개발 최우수상
 부산예일직업전문학교를 다닐 당시 언리얼엔진 게임개발 발표회에서 수상하였던 상 입니다.<br>
 발표회 당시 평가자로는 (주)파크이에스엠 의 이승찬 대표님이었습니다.<br>
-![김예성_언리얼엔진_게임개발_최우수상](https://github.com/user-attachments/assets/74e2ca9c-3793-4c27-9b80-5b61d2e33bdf)
+<img src="https://github.com/user-attachments/assets/74e2ca9c-3793-4c27-9b80-5b61d2e33bdf" width="400"/><br><br>
 
-<img src="https://github.com/user-attachments/assets/74e2ca9c-3793-4c27-9b80-5b61d2e33bdf" width="400"/>
+## 캡스톤 디자인 대상
+인제대학교 나노융합공학부에서 흔히 졸업작품이라 불리는 캡스톤 디자인 학생작품 경진대회에서 수상하였던 상입니다.<br>
+프로젝트로는 "자동차의 속도에 따른 과속방지턱 제어 및 전력충전"을 진행하였습니다.<br>
+자동차의 속도가 과속이면 과속방지턱의 역할을 하며, 과속이 아니라면 자동차가 과속방지턱을 눌러서 부드럽게 지나갈 수 있게 하였습니다.<br>
+또한 자동차가 과속방지턱을 누르는 힘으로 전력이 충전되어, 충전된 전력을 사용할 수 있게 하였습니다.<br>
+<img src="https://github.com/user-attachments/assets/18f4b9a6-93b6-4be7-a30b-79c80256fa7d" width="400"/><br><br>
 
 
