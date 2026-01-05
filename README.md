@@ -21,3 +21,11 @@
 또한 bag파일의 누락된 선박 위치 정보를 계산하여 bag파일에 삽입하고 저장하는 것을 자동화 하는 코딩도 맡았습니다.<br>
 <img src="https://github.com/user-attachments/assets/00b53ab2-64e1-4d87-adef-4e10370cd182" width="400"/><br><br>
 
+## 인제대학교 성적증명서
+인제대학교를 졸업할 당시의 성적증명서입니다.<br>
+최종학점은 4.02 입니다.<br>
+<img src="https://github.com/user-attachments/assets/6cde1976-1027-462a-95e9-415a8e15240c" width="400"/><br><br>
+
+## 인제대학교 졸업증명서
+인제대학교를 졸업하였음을 증명하는 졸업증명서입니다.<br>
+<img src="https://github.com/user-attachments/assets/0163e6d1-b62e-4b56-aa06-350be87dbaf8" width="400"/><br><br>
