@@ -24,7 +24,7 @@
 ## 인제대학교 성적증명서
 인제대학교를 졸업할 당시의 성적증명서입니다.<br>
 최종학점은 4.02 입니다.<br>
-<img src="https://github.com/user-attachments/assets/6cde1976-1027-462a-95e9-415a8e15240c" width="400"/><br><br>
+<img src="https://github.com/user-attachments/assets/6cde1976-1027-462a-95e9-415a8e15240c" width="800"/><br><br>
 
 ## 인제대학교 졸업증명서
 인제대학교를 졸업하였음을 증명하는 졸업증명서입니다.<br>
