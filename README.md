@@ -4,7 +4,7 @@
 
 ## SQLD 자격증 증명서
 - SQL 개발자 자격증을 취득한 증명서입니다.
-### [pdf 다운로드](./Folder/김예성_SQLD_자격증.pdf?raw=true)
+### [pdf 다운로드](https://github.com/Kim-Ye-Sung/KimYeSung_Certificate/raw/main/Folder/김예성_SQLD_자격증.pdf)
 ![alt text](Folder/김예성_SQLD_자격증.jpg)
 
 ## 언리얼엔진 게임개발 최우수상
