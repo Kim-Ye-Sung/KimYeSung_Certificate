@@ -2,6 +2,11 @@
 ## <개요>
 수상 기록 및 증명서들을 한번에 볼 수 있도록 정리하였습니다. <br>
 
+## 정보처리기사 자격증 증명서
+- 정보처리기사 자격증을 취득한 증명서입니다.
+### [pdf 다운로드](https://github.com/Kim-Ye-Sung/KimYeSung_Certificate/raw/main/Folder/김예성_정보처리기사.pdf)
+![alt text](Folder/김예성_정보처리기사.jpg)
+
 ## SQLD 자격증 증명서
 - SQL 개발자 자격증을 취득한 증명서입니다.
 ### [pdf 다운로드](https://github.com/Kim-Ye-Sung/KimYeSung_Certificate/raw/main/Folder/김예성_SQLD_자격증.pdf)
